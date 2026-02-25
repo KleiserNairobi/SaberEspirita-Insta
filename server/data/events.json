@@ -1,0 +1,334 @@
+[
+  {
+    "id": "1",
+    "date": "03/03/2026",
+    "canal": "Instagram",
+    "formato": "Carrossel",
+    "hookA": "Você sabe o que é fé raciocinada?",
+    "hookB": "A sua fé tem lógica? Descubra o poder da fé raciocinada.",
+    "descricao": "A fé espírita não é cega. Ela se baseia na lógica, na razão e na observação dos fatos. Neste carrossel, exploramos como o Espiritismo une ciência, filosofia e religião para oferecer uma compreensão profunda da vida e do universo.",
+    "cta": "Gostou? Salve este post para consultar depois e compartilhe com um amigo que precisa conhecer essa visão!",
+    "objetivo": "TOFU",
+    "pilar": "Estudo Doutrinário",
+    "responsavel": [
+      "E1",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Imagem principal: um cérebro se conectando a um coração com uma luz suave.",
+      "Paleta de cores: azul profundo, branco e dourado.",
+      "Tipografia: uma fonte serifada elegante para títulos e uma fonte sem serifa para o corpo do texto."
+    ],
+    "metrica": "Salvamentos",
+    "status": "Produzido"
+  },
+  {
+    "id": "2",
+    "date": "05/03/2026",
+    "canal": "Instagram",
+    "formato": "Reels",
+    "hookA": "Pare de sofrer sem entender o porquê.",
+    "hookB": "3 lições do Espiritismo para lidar com a dor.",
+    "descricao": "A dor faz parte da jornada evolutiva, mas não precisa ser um fardo. No vídeo de hoje, trazemos 3 reflexões da Doutrina Espírita que vão te ajudar a ressignificar os momentos difíceis e encontrar consolo na certeza de que tudo tem um propósito.",
+    "cta": "Assista até o final e comente qual lição mais tocou você.",
+    "objetivo": "MOFU",
+    "pilar": "Reflexão Moral",
+    "responsavel": [
+      "E2",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Cenas que transmitam paz e superação (nascer do sol, pessoa meditando).",
+      "Legendas curtas e impactantes sincronizadas com a narração.",
+      "Música instrumental serena e inspiradora."
+    ],
+    "metrica": "Comentários",
+    "status": "Produzido"
+  },
+  {
+    "id": "3",
+    "date": "07/03/2026",
+    "canal": "Instagram",
+    "formato": "Stories",
+    "hookA": "Quiz Espírita: Teste seus conhecimentos!",
+    "hookB": "Você é um expert em Doutrina Espírita?",
+    "descricao": "Sequência de 5 perguntas interativas sobre conceitos básicos do Espiritismo (Reencarnação, Lei de Causa e Efeito, etc.). Use a caixa de perguntas e enquetes para engajar a audiência.",
+    "cta": "Responda o quiz e veja sua pontuação! Quer aprender mais? Baixe nosso app!",
+    "objetivo": "BOFU",
+    "pilar": "Educação Espírita",
+    "responsavel": [
+      "E2",
+      "E3"
+    ],
+    "brief": [
+      "Fundo com a identidade visual da marca.",
+      "Ícones simples para ilustrar as perguntas.",
+      "Animações sutis para transição entre os stories."
+    ],
+    "metrica": "Taxa de conclusão do quiz",
+    "status": "Aprovado"
+  },
+  {
+    "id": "4",
+    "date": "08/03/2026",
+    "canal": "Instagram",
+    "formato": "Post Estático",
+    "hookA": "A força da mulher na jornada espiritual.",
+    "hookB": "Homenagem ao Dia da Mulher: a visão espírita sobre a evolução feminina.",
+    "descricao": "No Dia Internacional da Mulher, uma reflexão sobre o papel fundamental da mulher na construção de um mundo mais justo e fraterno, sob a ótica da imortalidade da alma e da igualdade perante as leis divinas.",
+    "cta": "Marque uma mulher que te inspira e representa a força da alma feminina.",
+    "objetivo": "TOFU",
+    "pilar": "Reflexão Moral",
+    "responsavel": [
+      "E3",
+      "E4",
+      "E5"
+    ],
+    "brief": [
+      "Arte simbólica: uma figura feminina estilizada com uma aura de luz.",
+      "Cores suaves e acolhedoras (tons pastel, dourado).",
+      "Frase de destaque de uma autora espírita (ex: Joanna de Ângelis)."
+    ],
+    "metrica": "Compartilhamentos",
+    "status": "Produzido"
+  },
+  {
+    "id": "5",
+    "date": "10/03/2026",
+    "canal": "Instagram",
+    "formato": "Carrossel",
+    "hookA": "O guia definitivo para começar a estudar 'O Livro dos Espíritos'.",
+    "hookB": "'O Livro dos Espíritos' parece complicado? Nós te ajudamos.",
+    "descricao": "Desvende a obra fundamental da Doutrina Espírita. Neste guia, mostramos um passo a passo para iniciar seus estudos, com dicas de como interpretar as perguntas e respostas, e como aplicar os ensinamentos no seu dia a dia.",
+    "cta": "Salve este guia e comece hoje mesmo sua jornada de conhecimento!",
+    "objetivo": "MOFU",
+    "pilar": "Estudo Doutrinário",
+    "responsavel": [
+      "E1",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Imagem da capa de 'O Livro dos Espíritos' em destaque.",
+      "Layout organizado em tópicos e bullet points.",
+      "Ícones para representar cada dica (livro, lupa, lâmpada)."
+    ],
+    "metrica": "Salvamentos",
+    "status": "Aprovado"
+  },
+  {
+    "id": "6",
+    "date": "12/03/2026",
+    "canal": "Instagram",
+    "formato": "Reels",
+    "hookA": "Ansiedade: uma perspectiva espiritual.",
+    "hookB": "Como a prece pode acalmar sua mente.",
+    "descricao": "A ansiedade é um dos grandes males da atualidade. Veja neste vídeo como a prece, quando feita com o coração, pode ser uma ferramenta poderosa para serenar a mente e fortalecer o espírito.",
+    "cta": "Precisa de um momento de paz? Ouça nossa prece guiada no app. Link na bio.",
+    "objetivo": "MOFU",
+    "pilar": "Prece e Consolo",
+    "responsavel": [
+      "E2",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Imagens que transmitam calma e introspecção.",
+      "Narração em voz suave e acolhedora.",
+      "Legendas que reforcem a mensagem principal."
+    ],
+    "metrica": "Cliques no link da bio",
+    "status": "Aprovado"
+  },
+  {
+    "id": "7",
+    "date": "14/03/2026",
+    "canal": "Instagram",
+    "formato": "Stories",
+    "hookA": "Bastidores do Saber Espírita.",
+    "hookB": "Como criamos o conteúdo que você vê aqui?",
+    "descricao": "Mostre a equipe (sem revelar identidades, se preferir), o processo de estudo, a escolha dos temas e a criação das artes. Gere conexão e mostre a seriedade por trás do trabalho.",
+    "cta": "O que mais você gostaria de ver nos bastidores? Mande sua sugestão!",
+    "objetivo": "TOFU",
+    "pilar": "Prova e Autoridade",
+    "responsavel": [
+      "E2",
+      "E5"
+    ],
+    "brief": [
+      "Vídeos curtos e autênticos.",
+      "Use a figurinha 'caixa de perguntas'.",
+      "Mostre livros e materiais de estudo."
+    ],
+    "metrica": "Respostas na caixa de perguntas",
+    "status": "Aprovado"
+  },
+  {
+    "id": "8",
+    "date": "17/03/2026",
+    "canal": "Instagram",
+    "formato": "Carrossel",
+    "hookA": "5 passos para aplicar a caridade no seu dia.",
+    "hookB": "A caridade vai além da esmola. Saiba como praticá-la.",
+    "descricao": "A caridade moral é um dos pilares do Espiritismo. Descubra 5 maneiras práticas de exercitar a benevolência, a indulgência e o perdão nas suas relações diárias, transformando seu ambiente e a si mesmo.",
+    "cta": "Qual desses passos você vai praticar hoje? Comente aqui!",
+    "objetivo": "MOFU",
+    "pilar": "Reflexão Moral",
+    "responsavel": [
+      "E3",
+      "E4",
+      "E5"
+    ],
+    "brief": [
+      "Ícones representando cada passo (um aperto de mão, um ouvido, um coração).",
+      "Exemplos práticos em cada lâmina do carrossel.",
+      "Design limpo e didático."
+    ],
+    "metrica": "Comentários",
+    "status": "Aprovado"
+  },
+  {
+    "id": "9",
+    "date": "19/03/2026",
+    "canal": "Instagram",
+    "formato": "Post Estático",
+    "hookA": "O que acontece depois da morte? A resposta do Espiritismo.",
+    "hookB": "A vida continua. Entenda a visão espírita sobre a imortalidade.",
+    "descricao": "Uma das perguntas mais fundamentais da humanidade respondida de forma clara e consoladora pela Doutrina Espírita. Uma arte que resume o conceito da passagem para o plano espiritual.",
+    "cta": "Essa mensagem trouxe paz ao seu coração? Compartilhe para que mais pessoas possam sentir o mesmo.",
+    "objetivo": "TOFU",
+    "pilar": "Educação Espírita",
+    "responsavel": [
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Arte simbólica: uma porta se abrindo para uma luz intensa.",
+      "Paleta de cores que transmita esperança (branco, azul claro, dourado).",
+      "Frase curta e impactante de 'O Livro dos Espíritos'."
+    ],
+    "metrica": "Compartilhamentos",
+    "status": "Aprovado"
+  },
+  {
+    "id": "10",
+    "date": "21/03/2026",
+    "canal": "Instagram",
+    "formato": "Reels",
+    "hookA": "Estudo solto vs. Estudo estruturado: qual a diferença?",
+    "hookB": "Você estuda Espiritismo do jeito certo?",
+    "descricao": "Compare os benefícios de ter uma trilha de estudos organizada (como a do nosso app) versus ler conteúdos aleatórios. Mostre como um método acelera o aprendizado e aprofunda a compreensão.",
+    "cta": "Quer organizar seus estudos? Conheça as trilhas do app Saber Espírita. Link na bio.",
+    "objetivo": "BOFU",
+    "pilar": "Produto/App",
+    "responsavel": [
+      "E1",
+      "E2",
+      "E3"
+    ],
+    "brief": [
+      "Formato dinâmico com 'antes e depois'.",
+      "Letreiros que destacam os benefícios do estudo estruturado.",
+      "Chamada clara para o app no final."
+    ],
+    "metrica": "Cliques no link da bio",
+    "status": "Aprovado"
+  },
+  {
+    "id": "11",
+    "date": "24/03/2026",
+    "canal": "Instagram",
+    "formato": "Carrossel",
+    "hookA": "Erro comum sobre reencarnação que você precisa saber.",
+    "hookB": "Reencarnação não é castigo. É oportunidade.",
+    "descricao": "Desmistifique a ideia de que a reencarnação é uma punição. Explique o conceito de provas e expiações como oportunidades de aprendizado e evolução, com base na justiça e no amor de Deus.",
+    "cta": "Fez sentido para você? Salve para não esquecer e compartilhe para esclarecer outras pessoas.",
+    "objetivo": "TOFU",
+    "pilar": "Educação Espírita",
+    "responsavel": [
+      "E3",
+      "E4",
+      "E5"
+    ],
+    "brief": [
+      "Design de 'mito vs. verdade'.",
+      "Use ícones de 'X' e 'check' para ilustrar.",
+      "Linguagem simples e direta para desfazer a confusão."
+    ],
+    "metrica": "Salvamentos",
+    "status": "Aprovado"
+  },
+  {
+    "id": "12",
+    "date": "26/03/2026",
+    "canal": "Instagram",
+    "formato": "Stories",
+    "hookA": "Depoimento de quem usa o app.",
+    "hookB": "Veja como o Saber Espírita está transformando vidas.",
+    "descricao": "Compartilhe um depoimento anônimo de um usuário, destacando como o app ajudou em sua jornada de estudo e reflexão. Use prints (com permissão e anonimizados) ou transforme o texto em uma arte.",
+    "cta": "Quer ter sua história compartilhada? Mande um DM pra gente!",
+    "objetivo": "BOFU",
+    "pilar": "Prova e Autoridade",
+    "responsavel": [
+      "E2",
+      "E5"
+    ],
+    "brief": [
+      "Print do depoimento com design que preserva a identidade visual.",
+      "Destaque para a frase mais impactante do depoimento.",
+      "CTA que incentiva o envio de mais histórias."
+    ],
+    "metrica": "Respostas ao Story",
+    "status": "Aprovado"
+  },
+  {
+    "id": "13",
+    "date": "28/03/2026",
+    "canal": "Instagram",
+    "formato": "Reels",
+    "hookA": "1 conceito em 60 segundos: Lei de Causa e Efeito.",
+    "hookB": "A sua vida hoje é resultado das suas escolhas de ontem.",
+    "descricao": "Explique de forma rápida e didática o que é a Lei de Ação e Reação, mostrando que somos construtores do nosso próprio destino. Use exemplos do cotidiano para facilitar a compreensão.",
+    "cta": "Para cada ação, uma reação. Reflita sobre isso.",
+    "objetivo": "TOFU",
+    "pilar": "Educação Espírita",
+    "responsavel": [
+      "E2",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Vídeo dinâmico com transições rápidas.",
+      "Legendas grandes e animadas.",
+      "Use um cronômetro na tela para criar senso de urgência."
+    ],
+    "metrica": "Visualizações de vídeo (retenção)",
+    "status": "Aprovado"
+  },
+  {
+    "id": "14",
+    "date": "31/03/2026",
+    "canal": "Instagram",
+    "formato": "Carrossel",
+    "hookA": "Como o estudo organizado pode acelerar sua evolução moral?",
+    "hookB": "Não basta estudar, é preciso aplicar. Veja como.",
+    "descricao": "Fechamento do mês conectando o pilar de estudo com o de reflexão moral. Mostre como o conhecimento adquirido através do estudo estruturado se transforma em ferramenta para a reforma íntima no dia a dia.",
+    "cta": "Pronto para transformar sua vida pelo estudo? Baixe o app Saber Espírita e comece sua jornada.",
+    "objetivo": "MOFU",
+    "pilar": "Estudo Doutrinário",
+    "responsavel": [
+      "E1",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Conexão visual entre 'livro' e 'coração' ou 'mente' e 'ações'.",
+      "Frases que conectem teoria e prática.",
+      "Destaque para as funcionalidades do app que auxiliam nessa jornada."
+    ],
+    "metrica": "Cliques no link da bio",
+    "status": "Aprovado"
+  }
+]
