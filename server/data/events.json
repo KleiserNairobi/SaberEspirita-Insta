@@ -68,7 +68,7 @@
       "Animações sutis para transição entre os stories."
     ],
     "metrica": "Taxa de conclusão do quiz",
-    "status": "Aprovado"
+    "status": "Publicado"
   },
   {
     "id": "4",
@@ -116,7 +116,7 @@
       "Ícones para representar cada dica (livro, lupa, lâmpada)."
     ],
     "metrica": "Salvamentos",
-    "status": "Produzido"
+    "status": "Publicado"
   },
   {
     "id": "6",
@@ -140,7 +140,7 @@
       "Legendas que reforcem a mensagem principal."
     ],
     "metrica": "Cliques no link da bio",
-    "status": "Produzido"
+    "status": "Publicado"
   },
   {
     "id": "7",
@@ -163,7 +163,7 @@
       "Mostre livros e materiais de estudo."
     ],
     "metrica": "Respostas na caixa de perguntas",
-    "status": "Aprovado"
+    "status": "Publicado"
   },
   {
     "id": "8",
