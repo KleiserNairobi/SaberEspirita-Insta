@@ -330,5 +330,265 @@
     ],
     "metrica": "Cliques no link da bio",
     "status": "Aprovado"
+  },
+  {
+    "id": "15",
+    "date": "18/04/2026",
+    "canal": "Instagram",
+    "formato": "Carrossel",
+    "hookA": "5 princípios que todo espírita deveria revisitar antes de estudar",
+    "hookB": "Você estuda Espiritismo ou só lê frases? Comece por aqui ↓",
+    "descricao": "Começar no Espiritismo pode parecer desafiador. São tantos conceitos, obras, interpretações... Por onde começar? Pelos fundamentos. Kardec estruturou a Doutrina sobre pilares racionais que, quando bem compreendidos, tornam todo o resto claro. Hoje separamos 5 princípios essenciais que funcionam como \"chave de leitura\" para qualquer estudo espírita. Salve este carrossel. Ele será útil mais vezes do que você imagina. 📖 #SaberEspirita #EstudoEspirita #Kardec",
+    "cta": "Qual desses princípios você sente que precisa aprofundar mais? Comente abaixo 👇",
+    "objetivo": "TOFU",
+    "pilar": "Estudo Doutrinário",
+    "responsavel": [
+      "E1",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Fundo em degradê azul profundo para dourado suave",
+      "Ícone de livro aberto no card 1",
+      "Tipografia serifada elegante para títulos",
+      "Elemento gráfico circular envolvendo cada número",
+      "Luz emanando do centro nos cards 2-6"
+    ],
+    "metrica": "Salvamentos",
+    "status": "Programado"
+  },
+  {
+    "id": "16",
+    "date": "19/04/2026",
+    "canal": "Instagram",
+    "formato": "Vídeo curto",
+    "hookA": "1 minuto que vai mudar como você enfrenta seus problemas hoje",
+    "hookB": "O Espiritismo tem uma resposta racional para sua angústia. Escute:",
+    "descricao": "A Doutrina Espírita nos convida a uma mudança radical de perspectiva. O sofrimento, quando compreendido como instrumento de evolução, deixa de ser fardo e se torna professor. No Evangelho segundo o Espiritismo, Kardec dedica um capítulo inteiro às \"Bem-aventuranças dos Aflitos\". Não é consolo vazio — é convite à reflexão ativa. Como você tem olhado para suas dores? #ReflexaoEspirita #ConsoloRacional #SaberEspirita",
+    "cta": "Compartilhe com alguém que precisa ouvir isso hoje 🤍",
+    "objetivo": "TOFU",
+    "pilar": "Prece e Consolo",
+    "responsavel": [
+      "E1",
+      "E2",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Paleta: tons suaves de azul e branco",
+      "Iluminação natural difusa",
+      "Planos fechados no livro e nas mãos",
+      "Trilha sonora instrumental serena (piano)",
+      "Sem rostos completos — foco nos gestos"
+    ],
+    "metrica": "Retenção de vídeo (>50%)",
+    "status": "Aprovado"
+  },
+  {
+    "id": "17",
+    "date": "21/04/2026",
+    "canal": "Instagram",
+    "formato": "Post Estático",
+    "hookA": "Tiradentes morreu por liberdade. Você sabe por qual liberdade sua alma luta?",
+    "hookB": "21 de abril: uma data que fala sobre coragem. Inclusive a sua.",
+    "descricao": "Hoje o Brasil lembra Tiradentes e seu ideal de liberdade política. O Espiritismo nos convida a pensar em uma liberdade ainda mais profunda: a liberdade moral. De que adianta ser livre exteriormente se somos escravos do orgulho, do egoísmo, da ignorância? A verdadeira independência começa dentro. E se constrói com autoconhecimento, estudo e reforma íntima. Que este 21 de abril nos inspire a lutar pela liberdade que realmente importa. 🕊️ #Tiradentes #LiberdadeMoral #Espiritismo #SaberEspirita",
+    "cta": "Toque no link da bio e comece sua jornada de liberdade interior com nosso app 📲",
+    "objetivo": "MOFU",
+    "pilar": "Reflexão Moral",
+    "responsavel": [
+      "E1",
+      "E3",
+      "E5"
+    ],
+    "brief": [
+      "Inspiração visual: Serra do Curral/Ouro Preto estilizada",
+      "Cor: azul profundo com toque dourado na tipografia",
+      "Texto centralizado com hierarquia clara",
+      "Moldura sutil em linhas geométricas",
+      "Efeito de luz emanando do texto"
+    ],
+    "metrica": "Cliques no link da bio",
+    "status": "Produzido"
+  },
+  {
+    "id": "18",
+    "date": "22/04/2026",
+    "canal": "Instagram",
+    "formato": "Stories interativos",
+    "hookA": "Quiz rápido: você conhece mesmo O Livro dos Espíritos?",
+    "hookB": "3 perguntas que revelam se você estuda ou só repete frases prontas",
+    "descricao": "**Card 1:** Enquete — \"O Livro dos Espíritos foi publicado em:\" (1857 / 1900 / 1945) **Card 2:** Resposta correta revelada: 1857. Curiosidade: Kardec levou 2 anos organizando as 1.019 perguntas. **Card 3:** Quiz — \"Quantas partes tem a obra?\" (3 / 4 / 5) **Card 4:** Resposta: 4 partes — Causas Primeiras, Mundo Espírita, Leis Morais, Esperanças e Consolações **Card 5:** \"Quer estudar com método?\" + Imagem do app + Link **Legenda nos stories:** Texto curto e direto em cada card, com tom de curiosidade amigável.",
+    "cta": "Arrase no quiz? Vem estudar com a gente → [Link do app]",
+    "objetivo": "MOFU",
+    "pilar": "Educação Espírita",
+    "responsavel": [
+      "E2",
+      "E5"
+    ],
+    "brief": [
+      "Fundo azul escuro consistente",
+      "Ícones simples (livro, lupa, check)",
+      "Fonte legível para mobile",
+      "Botões de interação nativos do Instagram",
+      "Logo sutil no último card"
+    ],
+    "metrica": "Taxa de conclusão dos stories (>60%)",
+    "status": "Em aprovação"
+  },
+  {
+    "id": "19",
+    "date": "24/04/2026",
+    "canal": "Instagram",
+    "formato": "Carrossel",
+    "hookA": "A prece mais poderosa não é a que você decora. É esta:",
+    "hookB": "Você reza ou só repete palavras? A diferença está aqui ↓",
+    "descricao": "Kardec, em O Evangelho segundo o Espiritismo (cap. XXVII), nos ensina que a prece é ato de sintonia, não de barganha. Não se trata de convencer Deus a fazer nossa vontade, mas de alinhar nossa vontade à Sua Lei — que é justa, amorosa e perfeita. A prece espírita é simples, sincera e, acima de tudo, um diálogo da alma consigo mesma e com o Alto. Hoje te convidamos a experimentar esses três momentos. Comece agora mesmo, em silêncio. 🌿 #PreceEspirita #Consciencia #SaberEspirita",
+    "cta": "Salve este carrossel para sua prática diária de prece 📿",
+    "objetivo": "TOFU",
+    "pilar": "Prece e Consolo",
+    "responsavel": [
+      "E3",
+      "E4",
+      "E5"
+    ],
+    "brief": [
+      "Fotografia minimalista: luz natural, janela, cortina leve",
+      "Tom azul suave e branco",
+      "Tipografia limpa, sem serifas pesadas",
+      "Ícones circulares para os 3 momentos",
+      "Efeito de luz suave nos cards 2-4"
+    ],
+    "metrica": "Salvamentos",
+    "status": "Ideia"
+  },
+  {
+    "id": "20",
+    "date": "25/04/2026",
+    "canal": "Instagram",
+    "formato": "Vídeo",
+    "hookA": "O erro que todo iniciante comete ao estudar mediunidade",
+    "hookB": "Mediunidade não é poder. É responsabilidade. Entenda em 40 segundos:",
+    "descricao": "O Livro dos Médiuns é claro: a mediunidade não escolhe os \"especiais\". Ela é inerente à constituição humana. O que varia é o tipo, a intensidade e, sobretudo, o uso moral que fazemos dela. Antes de querer \"desenvolver\", é preciso querer \"compreender\". E compreender exige estudo sério, não curiosidade vazia. Está no caminho certo? 📚 #Mediunidade #EstudoSerio #SaberEspirita",
+    "cta": "Quer estudar mediunidade com método? Link do app na bio 🔗",
+    "objetivo": "MOFU",
+    "pilar": "Estudo Doutrinário",
+    "responsavel": [
+      "E1",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Fundo neutro, foco no livro",
+      "Transições limpas e suaves",
+      "Fonte bold para palavras-chave",
+      "Trilha sonora sutil, quase imperceptível",
+      "Paleta azul + branco"
+    ],
+    "metrica": "Compartilhamentos",
+    "status": "Em produção"
+  },
+  {
+    "id": "21",
+    "date": "26/04/2026",
+    "canal": "Instagram",
+    "formato": "Post Estático",
+    "hookA": "O que você responderia se alguém perguntasse: 'Por que o Espiritismo?'",
+    "hookB": "Se você tivesse 30 segundos num elevador para explicar por que é espírita, o que diria?",
+    "descricao": "Não é sobre ter todas as respostas. É sobre aprender a fazer as perguntas certas. O Espiritismo nos oferece um método: observar, comparar, julgar com a razão e aplicar com o coração. Kardec não escreveu para convencer ninguém — escreveu para que cada um pudesse convencer a si mesmo, pelo estudo e pela experiência. E você? O que te trouxe até aqui? Conte nos comentários. Queremos conhecer sua história. 🤍 #FeRaciocinada #PorQueEspiritismo #SaberEspirita",
+    "cta": "Compartilhe com aquele amigo que vive perguntando por que você estuda isso 😉",
+    "objetivo": "TOFU",
+    "pilar": "Prova e Autoridade",
+    "responsavel": [
+      "E2",
+      "E3",
+      "E5"
+    ],
+    "brief": [
+      "Design clean, tipográfico",
+      "Paleta: azul profundo + dourado em destaque",
+      "Espaço em branco generoso",
+      "Moldura geométrica sutil",
+      "Sem imagens — força no texto"
+    ],
+    "metrica": "Comentários",
+    "status": "Aprovado"
+  },
+  {
+    "id": "22",
+    "date": "28/04/2026",
+    "canal": "Instagram",
+    "formato": "Carrossel",
+    "hookA": "Guia prático: como estudar O Livro dos Espíritos sem se perder",
+    "hookB": "Você tem O Livro dos Espíritos mas não sabe por onde começar? Salve isto:",
+    "descricao": "O Livro dos Espíritos não é um romance para ler correndo. É um compêndio filosófico para ser degustado. Muita gente desanima porque tenta \"ler tudo de uma vez\" e se perde nos conceitos. A chave é método. Pequenas doses diárias. Reflexão lenta. Aplicação prática. Guarde este carrossel. Ele vai te acompanhar por muito tempo. E se quiser um ajudante digital nessa jornada, o app Saber Espírita foi feito exatamente para isso. 📖✨ #EstudoMetodico #LivroDosEspiritos #SaberEspirita",
+    "cta": "Baixe o app e comece seu plano de estudo hoje 📲 Link na bio",
+    "objetivo": "BOFU",
+    "pilar": "Produto/App",
+    "responsavel": [
+      "E1",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Estilo \"guia prático\" — ícones de check ✅",
+      "Fundo claro com elementos em azul",
+      "Numeração clara dos passos",
+      "Mockup sutil do app no último card",
+      "Tipografia sem serifa para legibilidade"
+    ],
+    "metrica": "Cliques no link da bio + Instalações",
+    "status": "Aprovado"
+  },
+  {
+    "id": "23",
+    "date": "29/04/2026",
+    "canal": "Instagram",
+    "formato": "Enquete + Pergunta",
+    "hookA": "Você sabia? Kardec não era o nome verdadeiro dele.",
+    "hookB": "Teste seus conhecimentos: qual era o nome de Allan Kardec antes do Espiritismo?",
+    "descricao": "Curta e didática, com tom de descoberta amigável.",
+    "cta": "Quer receber curiosidades diárias sobre a Doutrina? Baixe o app 📲",
+    "objetivo": "MOFU",
+    "pilar": "Educação Espírita",
+    "responsavel": [
+      "E2",
+      "E5"
+    ],
+    "brief": [
+      "Fundo azul escuro",
+      "Fonte grande para a pergunta",
+      "Ícone de lupa ou interrogação estilizada",
+      "Logo do Saber Espírita no último card",
+      "Consistência visual com stories anteriores"
+    ],
+    "metrica": "Participação na enquete",
+    "status": "Ideia"
+  },
+  {
+    "id": "24",
+    "date": "30/04/2026",
+    "canal": "Instagram",
+    "formato": "Vídeo",
+    "hookA": "Depoimento real: 'Eu lia frases, mas não entendia nada. Até que...'",
+    "hookB": "O que mudou quando ela parou de só ler e começou a ESTUDAR Espiritismo:",
+    "descricao": "A Ana (nome fictício) nos autorizou a compartilhar esse relato. Ela representa tantos de nós: pessoas sinceras que querem aprender, mas se sentem perdidas com a quantidade de informação. O problema quase nunca é falta de vontade. É falta de método. O app Saber Espírita foi criado para resolver exatamente isso: organizar o estudo para que você construa conhecimento sólido, degrau por degrau. Obrigado, Ana, pela confiança. 🤍 #Depoimento #EstudoQueTransforma #SaberEspirita",
+    "cta": "Experimente o método por 7 dias grátis. Link na bio 🔗",
+    "objetivo": "BOFU",
+    "pilar": "Prova e Autoridade",
+    "responsavel": [
+      "E1",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Imagens conceituais: luz, livros, cadernos, mãos",
+      "Sem rostos identificáveis",
+      "Transições suaves entre cenas",
+      "Paleta azul e branco",
+      "Trilha sonora emocional mas contida",
+      "Texto na tela reforçando palavras-chave"
+    ],
+    "metrica": "Cliques no link + Instalações",
+    "status": "Ideia"
   }
 ]
