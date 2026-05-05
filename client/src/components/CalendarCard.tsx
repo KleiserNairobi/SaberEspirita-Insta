@@ -33,38 +33,38 @@ export default function CalendarCard({ event }: CalendarCardProps) {
   };
 
   const objetivoBg: Record<string, string> = {
-    TOFU: "bg-blue-50 text-blue-700 border-blue-200",
-    MOFU: "bg-amber-50 text-amber-700 border-amber-200",
-    BOFU: "bg-emerald-50 text-emerald-700 border-emerald-200",
+    TOFU: "bg-primary/10 text-primary border-primary/20",
+    MOFU: "bg-secondary/20 text-foreground border-secondary/30",
+    BOFU: "bg-accent text-accent-foreground border-border",
   };
   const pilarColors: Record<string, string> = {
-    "Estudo Doutrinário": "bg-indigo-50 text-indigo-700",
-    "Reflexão Moral": "bg-rose-50 text-rose-700",
-    "Prece e Consolo": "bg-purple-50 text-purple-700",
-    "Educação Espírita": "bg-cyan-50 text-cyan-700",
-    "Prova e Autoridade": "bg-orange-50 text-orange-700",
-    "Produto/App": "bg-green-50 text-green-700",
+    "Estudo Doutrinário": "bg-primary/10 text-primary",
+    "Reflexão Moral": "bg-secondary/20 text-foreground",
+    "Prece e Consolo": "bg-accent text-accent-foreground",
+    "Educação Espírita": "bg-muted text-foreground",
+    "Prova e Autoridade": "bg-secondary/15 text-foreground",
+    "Produto/App": "bg-primary/15 text-primary",
   };
 
   const statusColors: Record<string, string> = {
-    Ideia: "bg-gray-100 text-gray-700 border-gray-200",
-    Aprovado: "bg-blue-50 text-blue-700 border-blue-200",
-    "Em Produção": "bg-yellow-50 text-yellow-700 border-yellow-200",
-    Produzido: "bg-purple-50 text-purple-700 border-purple-200",
-    Publicado: "bg-green-50 text-green-700 border-green-200",
+    Ideia: "bg-muted text-muted-foreground border-border",
+    Aprovado: "bg-primary/10 text-primary border-primary/20",
+    "Em Produção": "bg-secondary/20 text-foreground border-secondary/30",
+    Produzido: "bg-accent text-accent-foreground border-border",
+    Publicado: "bg-primary text-primary-foreground border-transparent",
   };
 
   return (
     <>
-      <Card className="hover:shadow-lg transition-all duration-300 overflow-hidden border-0 bg-white group">
+      <Card className="glass-card hover:shadow-md transition-all duration-300 overflow-hidden group">
         <div className="p-6">
           {/* Header */}
           <div className="flex items-start justify-between mb-4">
             <div>
-              <div className="text-sm font-medium text-gray-500 mb-1">
+              <div className="text-sm font-medium text-muted-foreground mb-1">
                 {event.date}
               </div>
-              <h3 className="text-lg font-bold text-gray-900 line-clamp-2">
+              <h3 className="text-lg font-bold line-clamp-2">
                 {event.hookA}
               </h3>
             </div>
@@ -85,18 +85,18 @@ export default function CalendarCard({ event }: CalendarCardProps) {
             <Badge className={`${pilarColors[event.pilar]} border-0`}>
               {event.pilar}
             </Badge>
-            <Badge variant="outline" className="border-gray-200 text-gray-600">
+            <Badge variant="outline">
               {event.objetivo}
             </Badge>
           </div>
 
           {/* Descrição resumida */}
-          <p className="text-sm text-gray-600 line-clamp-2 mb-4">
+          <p className="text-sm text-muted-foreground line-clamp-2 mb-4">
             {event.descricao}
           </p>
 
           {/* Métrica */}
-          <div className="text-xs text-gray-500 mb-4">
+          <div className="text-xs text-muted-foreground mb-4">
             <span className="font-semibold">Métrica:</span> {event.metrica}
           </div>
 
@@ -105,7 +105,7 @@ export default function CalendarCard({ event }: CalendarCardProps) {
             variant="ghost"
             size="sm"
             onClick={() => setOpen(true)}
-            className="w-full justify-between text-primary hover:bg-blue-50"
+            className="w-full justify-between text-primary hover:bg-accent"
           >
             Ver detalhes
             <ChevronRight className="w-4 h-4" />
@@ -118,10 +118,7 @@ export default function CalendarCard({ event }: CalendarCardProps) {
         <DialogContent className="max-w-2xl max-h-[90vh] overflow-y-auto">
           <DialogHeader>
             <div className="flex items-center justify-between pr-8">
-              <DialogTitle
-                className="text-2xl text-gray-900"
-                style={{ fontFamily: "'Playfair Display', serif" }}
-              >
+              <DialogTitle className="text-2xl">
                 {event.date} - {event.formato}
               </DialogTitle>
               <div className="flex items-center gap-2">
@@ -136,14 +133,14 @@ export default function CalendarCard({ event }: CalendarCardProps) {
           <div className="space-y-6">
             {/* Hooks A/B */}
             <div>
-              <h4 className="font-semibold text-gray-900 mb-2">Hooks A/B</h4>
+              <h4 className="font-semibold mb-2">Hooks A/B</h4>
               <div className="space-y-2">
-                <div className="p-3 bg-blue-50 rounded-lg border border-blue-200">
+                <div className="p-3 glass-card rounded-lg">
                   <p className="text-sm">
                     <span className="font-semibold">A:</span> {event.hookA}
                   </p>
                 </div>
-                <div className="p-3 bg-blue-50 rounded-lg border border-blue-200">
+                <div className="p-3 glass-card rounded-lg">
                   <p className="text-sm">
                     <span className="font-semibold">B:</span> {event.hookB}
                   </p>
@@ -153,20 +150,16 @@ export default function CalendarCard({ event }: CalendarCardProps) {
 
             {/* Descrição completa */}
             <div>
-              <h4 className="font-semibold text-gray-900 mb-2">
-                Descrição/Legenda
-              </h4>
-              <p className="text-sm text-gray-700 leading-relaxed">
+              <h4 className="font-semibold mb-2">Descrição/Legenda</h4>
+              <p className="text-sm text-muted-foreground leading-relaxed">
                 {event.descricao}
               </p>
             </div>
 
             {/* CTA */}
             <div>
-              <h4 className="font-semibold text-gray-900 mb-2">
-                Call-to-Action
-              </h4>
-              <p className="text-sm text-gray-700 leading-relaxed">
+              <h4 className="font-semibold mb-2">Call-to-Action</h4>
+              <p className="text-sm text-muted-foreground leading-relaxed">
                 {event.cta}
               </p>
             </div>
@@ -174,15 +167,13 @@ export default function CalendarCard({ event }: CalendarCardProps) {
             {/* Informações de Funil e Pilar */}
             <div className="grid grid-cols-2 gap-4">
               <div>
-                <h4 className="font-semibold text-gray-900 mb-2">
-                  Objetivo (Funil)
-                </h4>
+                <h4 className="font-semibold mb-2">Objetivo (Funil)</h4>
                 <Badge className={`${objetivoBg[event.objetivo]} border`}>
                   {event.objetivo}
                 </Badge>
               </div>
               <div>
-                <h4 className="font-semibold text-gray-900 mb-2">Pilar</h4>
+                <h4 className="font-semibold mb-2">Pilar</h4>
                 <Badge className={`${pilarColors[event.pilar]} border-0`}>
                   {event.pilar}
                 </Badge>
@@ -191,7 +182,7 @@ export default function CalendarCard({ event }: CalendarCardProps) {
 
             {/* Responsáveis */}
             <div>
-              <h4 className="font-semibold text-gray-900 mb-2">Responsáveis</h4>
+              <h4 className="font-semibold mb-2">Responsáveis</h4>
               <div className="flex gap-2 flex-wrap">
                 {event.responsavel.map(resp => (
                   <Badge key={resp} variant="outline">
@@ -203,12 +194,10 @@ export default function CalendarCard({ event }: CalendarCardProps) {
 
             {/* Brief de Design */}
             <div>
-              <h4 className="font-semibold text-gray-900 mb-2">
-                Brief de Design
-              </h4>
+              <h4 className="font-semibold mb-2">Brief de Design</h4>
               <ul className="space-y-2">
                 {event.brief.map((item, idx) => (
-                  <li key={idx} className="text-sm text-gray-700 flex gap-2">
+                  <li key={idx} className="text-sm text-muted-foreground flex gap-2">
                     <span className="text-primary font-bold">•</span>
                     {item}
                   </li>
@@ -218,10 +207,8 @@ export default function CalendarCard({ event }: CalendarCardProps) {
 
             {/* Métrica-chave */}
             <div>
-              <h4 className="font-semibold text-gray-900 mb-2">
-                Métrica-chave
-              </h4>
-              <p className="text-sm text-gray-700">{event.metrica}</p>
+              <h4 className="font-semibold mb-2">Métrica-chave</h4>
+              <p className="text-sm text-muted-foreground">{event.metrica}</p>
             </div>
 
             {/* Status (Removido daqui pois já está no header do modal) */}
