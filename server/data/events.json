@@ -137,7 +137,7 @@
     "brief": [
       "Imagens que transmitam calma e introspecção.",
       "Narração em voz suave e acolhedora.",
-      "Legendas que reforcem a mensagem principal."
+      "Legendas que reforcem a message principal."
     ],
     "metrica": "Cliques no link da bio",
     "status": "Publicado"
@@ -391,7 +391,7 @@
     "formato": "Post Estático",
     "hookA": "Tiradentes morreu por liberdade. Você sabe por qual liberdade sua alma luta?",
     "hookB": "21 de abril: uma data que fala sobre coragem. Inclusive a sua.",
-    "descricao": "Hoje o Brasil lembra Tiradentes e seu ideal de liberdade política. O Espiritismo nos convida a pensar em uma liberdade ainda mais profunda: a liberdade moral. De que adianta ser livre exteriormente se somos escravos do orgulho, do egoísmo, da ignorância? A verdadeira independência começa dentro. E se constrói com autoconhecimento, estudo e reforma íntima. Que este 21 de abril nos inspire a lutar pela liberdade que realmente importa. 🕊️ #Tiradentes #LiberdadeMoral #Espiritismo #SaberEspirita",
+    "descricao": "Hoje o Brasil lembra Tiradentes e seu ideal de liberdade política. O Espiritismo nos convida a pensar em uma liberdade ainda mais profunda: a liberdade moral. De que adianta ser livre exteriormente se somos escravos do orgulho, do egoísmo, do ignorância? A verdadeira independência começa dentro. E se constrói com autoconhecimento, estudo e reforma íntima. Que este 21 de abril nos inspire a lutar pela liberdade que realmente importa. 🕊️ #Tiradentes #LiberdadeMoral #Espiritismo #SaberEspirita",
     "cta": "Toque no link da bio e comece sua jornada de liberdade interior com nosso app 📲",
     "objetivo": "MOFU",
     "pilar": "Reflexão Moral",
@@ -590,5 +590,317 @@
     ],
     "metrica": "Cliques no link + Instalações",
     "status": "Ideia"
+  },
+  {
+    "id": "25",
+    "date": "05/05/2026",
+    "canal": "Instagram",
+    "formato": "Post Estático",
+    "hookA": "O Espiritismo tem resposta para o que o mundo está vivendo agora.",
+    "hookB": "Em tempos de tanto ruído, o que a doutrina tem a dizer sobre o presente?",
+    "descricao": "Num mundo polarizado, acelerado e cheio de vozes disputando sua atenção, o Espiritismo não foge do presente — ele o ilumina.\n\nKardec não escreveu para o século XIX. Escreveu para quem busca compreender a existência com razão e fé.\n\nEste mês, vamos falar sobre temas que você vive hoje:\n— A psicografia como mercadoria\n— A política que divide casas e corações\n— Os canais espíritas que mais confundem do que ensinam\n— O que a doutrina diz sobre a regeneração do mundo\n\nEstudo sério. Reflexão honesta. Sem sensacionalismo.\n\n💡 Salve este post e acompanhe.\n\n#SaberEspirita #Espiritismo #FéRaciocinada #Kardec #EstudoEspirita #DoutrinaEspirita",
+    "cta": "Salve e acompanhe os próximos conteúdos deste mês.",
+    "objetivo": "TOFU",
+    "pilar": "Educação Espírita",
+    "responsavel": [
+      "E1",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Fundo azul profundo com tipografia elegante centralizada; título grande e sereno",
+      "Símbolo de luz difusa ao fundo (não religioso, abstrato — como claridade surgindo)",
+      "Paleta: azul profundo + dourado suave; sem imagens de pessoas ou ícones religiosos explícitos"
+    ],
+    "metrica": "Salvamentos",
+    "status": "Produzido"
+  },
+  {
+    "id": "26",
+    "date": "07/05/2026",
+    "canal": "Instagram",
+    "formato": "Carrossel",
+    "hookA": "A psicografia virou negócio. E isso é um problema doutrinário.",
+    "hookB": "Quando a mediunidade tem preço, o que diz o Espiritismo sobre isso?",
+    "descricao": "A psicografia é um dos fenômenos mais mal compreendidos — e mais explorados — do mundo espírita atual.\n\nEntre shows psicográficos, 'consultas com espíritos' pagas e influenciadores mediúnicos, a pergunta é séria:\n\nO que Kardec e os espíritos ensinaram sobre mediunidade e dinheiro?\n\n📖 Card 2 — O que é a psicografia segundo a doutrina\n📖 Card 3 — \"A mediunidade não é um privilégio, é uma missão\" (O Livro dos Médiuns)\n📖 Card 4 — Comercialização: o que os espíritos disseram sobre cobrar por médiuns\n📖 Card 5 — Como discernir entre prática séria e exploração\n📖 Card 6 — O que fazer quando você não sabe em quem confiar\n\nEstudar é a melhor defesa contra o engano.\n\n💡 Salve para consultar sempre que precisar.\n\n#Psicografia #Mediunidade #Espiritismo #Kardec #LivroDosMédiuns #SaberEspirita #FéRaciocinada",
+    "cta": "Salve este carrossel — você vai precisar dele numa conversa difícil.",
+    "objetivo": "TOFU",
+    "pilar": "Educação Espírita",
+    "responsavel": [
+      "E1",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Card capa: tipografia forte, pergunta em destaque, fundo claro com detalhe dourado",
+      "Cards internos: layout editorial limpo, citações de obras em destaque visual com referência bibliográfica",
+      "Último card: convite ao estudo com logo do Saber Espírita e CTA de salvamento"
+    ],
+    "metrica": "Salvamentos",
+    "status": "Programado"
+  },
+  {
+    "id": "27",
+    "date": "09/05/2026",
+    "canal": "Instagram",
+    "formato": "Post Estático",
+    "hookA": "Dia das Mães: o que o Espiritismo diz sobre os laços que vão além da morte.",
+    "hookB": "Ela pode ter partido. Mas o amor que vocês construíram — esse permanece.",
+    "descricao": "Para quem perdeu a mãe e sente que a saudade não cabe no peito.\nPara quem tem a mãe por perto e quer valorizar cada encontro.\nPara quem foi mãe e sabe o peso e a beleza que essa palavra carrega.\n\nO Espiritismo não trata a morte como fim — trata como transição.\nE os laços construídos com amor atravessam essa transição.\n\n\"O amor é o cimento da criação.\" — Kardec, O Evangelho segundo o Espiritismo\n\nFeliz Dia das Mães.\n\n#DiadasMães #Espiritismo #Imortalidade #Kardec #SaberEspirita #Consolo #EvangelhoSegundoOEspiritismo",
+    "cta": "Marque alguém que precisa ler isso hoje.",
+    "objetivo": "TOFU",
+    "pilar": "Prece e Consolo",
+    "responsavel": [
+      "E1",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Visual suave: luz quente, fundo claro, tipografia delicada com a citação em destaque",
+      "Sem imagens de pessoas reais; usar elementos simbólicos como luz, flores ou folhas abstratas",
+      "Tom acolhedor — o post precisa parecer um abraço visual"
+    ],
+    "metrica": "Compartilhamentos",
+    "status": "Programado"
+  },
+  {
+    "id": "28",
+    "date": "12/05/2026",
+    "canal": "Instagram",
+    "formato": "Carrossel",
+    "hookA": "Espiritismo e política: a doutrina tem posição — mas não é a que você pensa.",
+    "hookB": "Você já viu espíritas brigando por política. Mas o que Kardec diria sobre isso?",
+    "descricao": "A polarização política está dentro dos centros espíritas. Está nos grupos de família. Está nos comentários de perfis da doutrina.\n\nE muita gente usa o Espiritismo para justificar seu lado.\n\nMas e se a doutrina não for de esquerda nem de direita — e for de algo muito mais exigente?\n\n📖 Card 2 — O que o Espiritismo diz sobre política e moral\n📖 Card 3 — \"A fraternidade acima das opiniões\" — base doutrinária\n📖 Card 4 — Quando o espírita usa a doutrina como arma política\n📖 Card 5 — O que é responsabilidade moral no contexto social segundo Kardec\n📖 Card 6 — Como manter coerência espírita num mundo polarizado\n\nA doutrina não é muda diante do mundo. Mas ela fala de um lugar diferente.\n\n💡 Salve e reflita.\n\n#EspiritismoEPolítica #Polarização #FraternidadeUniversal #Kardec #SaberEspirita #MoralEspirita #Espiritismo",
+    "cta": "Salve este carrossel antes de entrar no próximo debate.",
+    "objetivo": "TOFU",
+    "pilar": "Reflexão Moral",
+    "responsavel": [
+      "E1",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Capa com contraste visual forte: duas direções opostas convergindo para um ponto central de luz",
+      "Cards internos with diagramação clara, citações referenciadas e linguagem objetiva sem partido",
+      "Paleta neutra: azul profundo e cinza — evitar vermelho ou qualquer cor com conotação política"
+    ],
+    "metrica": "Salvamentos",
+    "status": "Programado"
+  },
+  {
+    "id": "29",
+    "date": "14/05/2026",
+    "canal": "Instagram",
+    "formato": "Reels",
+    "hookA": "Tem um canal espírita que você segue que pode estar te enganando.",
+    "hookB": "Como saber se o conteúdo espírita que você consome é sério — ou é espetáculo?",
+    "descricao": "O crescimento de canais espíritas no YouTube e Instagram é real. Mas nem todo conteúdo espírita é doutrina séria.\n\nAlguns confundem. Outros lucram com o medo. Outros misturam tudo.\n\nComo discernir?\n\n🎬 Neste Reel: 3 perguntas rápidas para avaliar qualquer canal espírita que você acompanha.\n\nNão estamos apontando nomes — estamos te dando ferramentas para pensar por conta própria.\n\nIsso é fé raciocinada.\n\n💡 Salve e compartilhe com alguém que precisa ouvir isso.\n\n#Espiritismo #Discernimento #CanaisEspiritistas #FéRaciocinada #SaberEspirita #Kardec #EstudoEspirita",
+    "cta": "Compartilhe com alguém que acompanha muito canal espírita por aí.",
+    "objetivo": "TOFU",
+    "pilar": "Educação Espírita",
+    "responsavel": [
+      "E1",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Reel simples: texto animado sobre fundo escuro, ritmo de leitura lento e sereno",
+      "Sem apresentador em vídeo — apenas texto em movimento com trilha instrumental suave",
+      "Produção CapCut: 3 telas com pergunta + resposta curta; duração máxima 45s"
+    ],
+    "metrica": "Compartilhamentos",
+    "status": "Programado"
+  },
+  {
+    "id": "30",
+    "date": "16/05/2026",
+    "canal": "Instagram",
+    "formato": "Carrossel",
+    "hookA": "2026, regeneração do mundo e o que Kardec realmente disse sobre isso.",
+    "hookB": "Você já ouviu falar na 'data limite' da regeneração. Mas o que a doutrina diz de verdade?",
+    "descricao": "Nos últimos anos, cresceu muito a circulação de datas, profecias e 'revelações' sobre a regeneração do mundo — e muitas delas usam o nome do Espiritismo.\n\nMas o que Kardec e os espíritos ensinaram, de fato, sobre o Planeta Terra como mundo de regeneração?\n\n📖 Card 2 — O que é a regeneração segundo A Gênese e O Livro dos Espíritos\n📖 Card 3 — \"Não há prazo: há processo\" — o que a doutrina diz sobre datas\n📖 Card 4 — Mundos de expiação, regeneração e felicidade: onde estamos?\n📖 Card 5 — Por que profecias com datas específicas contradizem a doutrina\n📖 Card 6 — Como estudar esse tema with seriedade e sem ansiedade\n\nA regeneração é real na doutrina. Mas ela não cabe em profecia de Instagram.\n\n💡 Salve — este é um dos temas mais distorcidos do mundo espírita.\n\n#RegeneraçãoDoMundo #Espiritismo #AGênese #Kardec #SaberEspirita #ProfeciasEspiritismo #LivroDosEspíritos",
+    "cta": "Salve e compartilhe com quem anda ansioso com essas profecias.",
+    "objetivo": "TOFU",
+    "pilar": "Estudo Doutrinário",
+    "responsavel": [
+      "E1",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Capa com visual de horizonte ou luz distante — sensação de longa jornada, não de catástrofe iminente",
+      "Cards internos: citações diretas de A Gênese e O Livro dos Espíritos com numeração de questão visível",
+      "Paleta serena: azul e branco, tipografia clara — transmitir calma e solidez doutrinária"
+    ],
+    "metrica": "Salvamentos",
+    "status": "Programado"
+  },
+  {
+    "id": "31",
+    "date": "19/05/2026",
+    "canal": "Instagram",
+    "formato": "Post Estático",
+    "hookA": "Reflexão de semana: você estuda a doutrina ou apenas a consome?",
+    "hookB": "Existe diferença entre ler Kardec e estudar Kardec. Você sabe qual é?",
+    "descricao": "Consumir conteúdo espírita é fácil hoje. Podcasts, reels, cards bonitos.\n\nMas estudo é diferente de consumo.\n\nEstudar exige retorno ao texto original. Exige confrontar o que você leu com o que você vive. Exige dúvida produtiva — não certeza confortável.\n\n\"A fé que não suporta o exame da razão não é fé, é credulidade.\" — Kardec\n\nO app Saber Espírita foi pensado para quem quer ir além do consumo.\n\n🔗 Link na bio.\n\n#EstudoEspirita #FéRaciocinada #Kardec #Espiritismo #SaberEspirita #AprofundamentoEspirita",
+    "cta": "Conheça o app — link na bio.",
+    "objetivo": "MOFU",
+    "pilar": "Produto/App",
+    "responsavel": [
+      "E1",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Fundo claro com textura sutil de papel ou livro desfocado ao fundo",
+      "Citação em destaque tipográfico elegante, atribuição a Kardec em fonte menor",
+      "Minimalismo visual — o peso deve estar nas palavras, não nos elementos gráficos"
+    ],
+    "metrica": "Cliques no link",
+    "status": "Programado"
+  },
+  {
+    "id": "32",
+    "date": "21/05/2026",
+    "canal": "Instagram",
+    "formato": "Carrossel",
+    "hookA": "Saúde mental e Espiritismo: onde a ciência e a doutrina se encontram — e onde divergem.",
+    "hookB": "Você usaria o Espiritismo no lugar de um psicólogo? Essa pergunta merece uma resposta séria.",
+    "descricao": "Um dos debates mais urgentes no Espiritismo contemporâneo:\n\nComo a doutrina se relaciona com saúde mental?\n\nHá quem substitua tratamento psicológico por práticas espíritas. Há quem descarte qualquer dimensão espiritual do sofrimento psíquico.\n\nA doutrina oferece uma terceira via — e ela é mais sofisticada do que os dois extremos.\n\n📖 Card 2 — O que o Espiritismo diz sobre a origem do sofrimento psíquico\n📖 Card 3 — Obsessão mediúnica x transtorno mental: como discernir?\n📖 Card 4 — O que Kardec diz sobre o uso da medicina e da ciência\n📖 Card 5 — Espiritismo como complemento, nunca como substituição\n📖 Card 6 — Onde buscar ajuda — e como integrar fé e cuidado\n\nFé raciocinada também se aplica ao cuidado com a mente.\n\n💡 Salve — tema delicado que merece atenção.\n\n#SaúdeMentalEEspiritismo #Espiritismo #Obsessão #Kardec #SaberEspirita #SaúdeMental #Psicologia",
+    "cta": "Salve e compartilhe com quem mistura ou separa demais esses dois mundos.",
+    "objetivo": "TOFU",
+    "pilar": "Educação Espírita",
+    "responsavel": [
+      "E1",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Capa visual com dois círculos que se intersectam — um representando ciência, outro espiritualidade",
+      "Cards internos: diagramação limpa, linguagem cuidadosa e não alarmista, sem sensacionalismo",
+      "Nota de rodapé discreta em card final: 'Este conteúdo não substitui acompanhamento profissional'"
+    ],
+    "metrica": "Salvamentos",
+    "status": "Programado"
+  },
+  {
+    "id": "33",
+    "date": "23/05/2026",
+    "canal": "Instagram",
+    "formato": "Post Estático",
+    "hookA": "Prece não é pedido. É postura moral.",
+    "hookB": "O que você entende por orar? A doutrina tem uma resposta que pode surpreender você.",
+    "descricao": "Muita gente foi ensinada que orar é pedir.\n\nO Espiritismo ensina algo mais profundo:\na oração é, antes de tudo, uma postura da alma diante da existência.\n\nNão é transação. É comunhão.\nNão é negociação. É reconhecimento.\n\n\"A prece é o ato mais elevado da inteligência humana, porque é o reconhecimento da dependência do ser em relação ao Criador.\" — Kardec, O Evangelho segundo o Espiritismo\n\nOre sem pedir nada. Veja o que acontece.\n\n#Prece #Oração #Espiritismo #Kardec #EvangelhoSegundoOEspiritismo #SaberEspirita #ReflexãoEspirita",
+    "cta": "Salve para reler nos momentos difíceis.",
+    "objetivo": "MOFU",
+    "pilar": "Prece e Consolo",
+    "responsavel": [
+      "E1",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Visual contemplativo: luz suave, fundo claro ou azul muito claro, tipografia serena",
+      "Citação em destaque com espaço em branco generoso ao redor — silêncio visual intencional",
+      "Sem imagens religiosas explícitas — apenas luz e texto"
+    ],
+    "metrica": "Salvamentos",
+    "status": "Programado"
+  },
+  {
+    "id": "34",
+    "date": "26/05/2026",
+    "canal": "Instagram",
+    "formato": "Carrossel",
+    "hookA": "O que acontece quando o centro espírita vira palco?",
+    "hookB": "Você já saiu de um centro espírita mais confuso do que entrou? Você não está sozinho.",
+    "descricao": "Uma das dores mais reais de quem busca o Espiritismo hoje:\n\nChegar a um centro e encontrar espetáculo, personalismo, drama espiritual — em vez de estudo e fraternidade.\n\nIsso não é crítica ao movimento espírita. É uma realidade que a própria doutrina nos convida a examinar.\n\n📖 Card 2 — O que Kardec estabeleceu sobre como devem ser os centros espíritas\n📖 Card 3 — Sinais de um ambiente doutrinariamente saudável\n📖 Card 4 — Sinais de alerta: quando o centro se torna obstáculo\n📖 Card 5 — O papel do estudo individual quando o grupo falha\n📖 Card 6 — Você pode estudar com seriedade mesmo longe de um bom centro\n\nA doutrina não depende de um endereço para ser vivida.\n\n💡 Salve — para quem está em dúvida sobre seu grupo de estudos.\n\n#CentroEspirita #Espiritismo #Kardec #SaberEspirita #EstudoEspirita #FéRaciocinada #Espiritismo2026",
+    "cta": "Salve e compartilhe com alguém que está buscando um lugar de estudo sério.",
+    "objetivo": "TOFU",
+    "pilar": "Educação Espírita",
+    "responsavel": [
+      "E1",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Capa com metáfora visual de espaço vazio e limpo vs. agitação — dois ambientes contrastantes",
+      "Cards internos with checklists visuais elegantes: ícones simples de verificação em dourado e cinza",
+      "Tom acolhedor, nunca acusatório — o post é para quem sofreu, não para julgar quem causou"
+    ],
+    "metrica": "Salvamentos",
+    "status": "Programado"
+  },
+  {
+    "id": "35",
+    "date": "28/05/2026",
+    "canal": "Instagram",
+    "formato": "Carrossel",
+    "hookA": "Como o Saber Espírita surgiu — e por que construímos do jeito que construímos.",
+    "hookB": "Por que um app de estudo espírita? Bastidores e intenção por trás do projeto.",
+    "descricao": "Não criamos o Saber Espírita para ser mais um canal de conteúdo espírita.\n\nCriamos porque percebemos que existe muita informação espírita circulando — e pouca estrutura para transformar essa informação em estudo real.\n\nO app foi pensado para quem quer:\n✔ Estudar com método, não com fragmentos\n✔ Fixar o que aprendeu com quizzes baseados nas obras\n✔ Ter acesso a trilhas organizadas do básico ao avançado\n✔ Orar com textos que fazem sentido doutrinário\n\nIsso é o que tentamos construir.\n\nNão somos perfeitos — mas somos sérios.\n\n🔗 Link na bio para conhecer o app.\n\n#SaberEspirita #AppEspirita #Bastidores #EstudoEspirita #Espiritismo #Kardec #FéRaciocinada",
+    "cta": "Conheça o app — link na bio. Se já usa, conta nos comentários o que mais gosta.",
+    "objetivo": "BOFU",
+    "pilar": "Prova e Autoridade",
+    "responsavel": [
+      "E1",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Capa com visual de construção ou projeto — sensação de algo sendo feito com cuidado e intenção",
+      "Cards internos com capturas conceituais do app (não prints crus) e bullets de funcionalidades",
+      "Tom pessoal e honesto — falar como fundadores, não como marca corporativa"
+    ],
+    "metrica": "Cliques no link",
+    "status": "Programado"
+  },
+  {
+    "id": "36",
+    "date": "30/05/2026",
+    "canal": "Instagram",
+    "formato": "Reels",
+    "hookA": "3 perguntas que todo espírita deveria conseguir responder — mas a maioria não consegue.",
+    "hookB": "Você conhece a doutrina ou acha que conhece? Teste rápido.",
+    "descricao": "Não é teste para envergonhar ninguém.\n\nÉ um convite honesto para perceber onde estão os gaps no nosso entendimento doutrinário — e transformar isso em estudo.\n\n🎬 Neste Reel: 3 perguntas básicas que revelam muito sobre a profundidade do estudo espírita.\n\nAs respostas? Nos slides seguintes — ou no app, que tem quizzes diários baseados nas obras.\n\n🔗 Link na bio.\n\n#Espiritismo #EstudoEspirita #SaberEspirita #Kardec #QuizEspirita #FéRaciocinada #AprendizagemEspirita",
+    "cta": "Acesse o app para mais quizzes como esse — link na bio.",
+    "objetivo": "BOFU",
+    "pilar": "Produto/App",
+    "responsavel": [
+      "E1",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Reel dinâmico: pergunta aparece, pausa dramática de 2s, resposta surge — ritmo de quiz",
+      "Texto branco sobre fundo azul profundo, tipografia grande e legível em mobile",
+      "Produção simples no CapCut: 3 telas de pergunta + transição suave; duração 30-40s"
+    ],
+    "metrica": "Cliques no link",
+    "status": "Programado"
+  },
+  {
+    "id": "37",
+    "date": "31/05/2026",
+    "canal": "Instagram",
+    "formato": "Post Estático",
+    "hookA": "Maio acabou. O estudo continua.",
+    "hookB": "O que você levou deste mês — e o que ainda precisa aprofundar?",
+    "descricao": "Este mês falamos sobre coisas que raramente aparecem no conteúdo espírita convencional:\n\n— Psicografia como produto\n— Polarização política e fraternidade\n— Canais duvidosos e como discernir\n— A regeneração do mundo sem profecia\n— Saúde mental e Espiritismo\n— Centros espíritas que viram palco\n\nNão para criar polêmica. Mas porque fé raciocinada exige olhar para o que é real.\n\nEm junho, continuamos.\n\nSe este conteúdo foi útil para você, compartilhe com alguém que busca estudar de forma séria.\n\n#SaberEspirita #Espiritismo #Kardec #FéRaciocinada #EstudoEspirita #ResumoDoMês",
+    "cta": "Compartilhe com quem você quer estudar junto.",
+    "objetivo": "MOFU",
+    "pilar": "Prova e Autoridade",
+    "responsavel": [
+      "E1",
+      "E3",
+      "E4"
+    ],
+    "brief": [
+      "Visual de encerramento: composição limpa com os temas do mês listados sutilmente ao fundo",
+      "Tipografia grande e serena no centro: 'O estudo continua.' — tom de convite, não de despedida",
+      "Paleta unificada do mês: azul profundo + dourado suave — consistência visual de fechamento"
+    ],
+    "metrica": "Compartilhamentos",
+    "status": "Programado"
   }
 ]
